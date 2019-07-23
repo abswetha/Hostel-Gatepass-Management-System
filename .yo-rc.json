@@ -1,0 +1,40 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.srmuniv.ams",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "6.1.2",
+    "applicationType": "monolith",
+    "baseName": "ams",
+    "packageName": "com.srmuniv.ams",
+    "packageFolder": "com/srmuniv/ams",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "ZWY2MDZmMTc4ZjY0MjEwYzYzYjBiNDAzMTk1ZjgxNDA3OWM2OTUyMWZhNjVkYjAzOGQyOTUwNzhmYjBjNDNjNmZkYmFjYTdjOWY2YTQyMDljNTc1MTFmYjRjMTVhODJiY2EwMmVjNmU2MDRhOWJjMDlhMGZlNzJmOGQxZTYwYzk=",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": ["en", "hi", "ta"]
+  }
+}
