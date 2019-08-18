@@ -48,9 +48,9 @@
     "messages": {
       "info": {
         "authenticated": {
-          "prefix": "If you want to ",
-          "link": "sign in",
-          "suffix": ", you can try the default accounts:<br/>- Administrator (login=\"admin\" and password=\"admin\") <br/>- User (login=\"user\" and password=\"user\")."
+          "prefix": "Existing User? ",
+          "link": "Sign in",
+          "suffix": " "
         },
         "register": {
           "noaccount": "You don't have an account yet?",
@@ -132,5 +132,5 @@
     "idexists": "A new {{ entityName }} cannot already have an ID",
     "idnull": "Invalid ID"
   },
-  "footer": "This is your footer"
+  "footer": "2019 Copyright, SRM Institute of Science and Technology (formerly known as SRM University), All Rights Reserved"
 }
